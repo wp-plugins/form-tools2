@@ -8,8 +8,6 @@ Stable tag: 1.0.0
 
 This plugin lets you view and manage forms that has been configured with the open source Form Tools application within Wordpress.
 
-
-
 == Description ==
 
 The Form Tools Wordpress Plugin lets you view and manage your form submissions through your Wordpress installation. For Wordpress users, this can be a much more convenient way to manage your data: instead of having to log into two separate scripts you can find all your information in one place.
