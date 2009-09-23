@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Form Tools ===
 Contributors: benkeen
 Donate link: http://ft2.formtools.org/donate/
 Tags: comments, spam
@@ -6,7 +6,7 @@ Requires at least: 2.8.0
 Tested up to: 2.8.4
 Stable tag: 1.0.0
 
-The Form Tools Wordpress Plugin lets you view and manage your Form Tools form submissions inforation through your Wordpress installation. For Wordpress users, this can be a much more convenient way to manage your data: instead of having to log into two separate scripts you can find all your information in one place. 
+This plugin lets you view and manage forms that has been configured with the open source Form Tools application within Wordpress.
 
 == Description ==
 
@@ -20,6 +20,11 @@ Please see the installation documentation on the Form Tools site:
 http://docs.formtools.org/wordpress_plugin/?page=installation
 
 == Frequently Asked Questions ==
+
+For FAQ and user documentation, see the Form Tools website here:
+
+* Documentation: [http://docs.formtools.org/wordpress_plugin/?page=index](http://docs.formtools.org/wordpress_plugin/?page=index "http://docs.formtools.org/wordpress_plugin/?page=index")
+* Forums: [http://forums.formtools.org/forumdisplay.php?fid=19](http://forums.formtools.org/forumdisplay.php?fid=19 "http://forums.formtools.org/forumdisplay.php?fid=19")
 
 == Screenshots ==
 
