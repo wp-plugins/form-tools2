@@ -14,17 +14,15 @@ The Form Tools Wordpress Plugin lets you view and manage your form submissions t
 
 This plugin includes a simple mechanism for mapping Wordpress accounts to Form Tools accounts. Since Form Tools already provides a wide range of options for controlling the permissions of individual users (e.g. controlling which forms and which form fields they can view and edit), rather than provide duplicate functionality, the plugin lets you map one or more Wordpress accounts to a Form Tools account - to get the same permissions within Wordpress. This gives you tremendous control over who sees what and reduces the amount of configuration time.
 
+For FAQ and user documentation, see the following links:
+
+* Documentation: [http://docs.formtools.org/wordpress_plugin/?page=index](http://docs.formtools.org/wordpress_plugin/?page=index "http://docs.formtools.org/wordpress_plugin/?page=index")
+* Forums: [http://forums.formtools.org/forumdisplay.php?fid=19](http://forums.formtools.org/forumdisplay.php?fid=19 "http://forums.formtools.org/forumdisplay.php?fid=19")
+
 == Installation ==
 
 Please see the installation documentation on the Form Tools site:
 http://docs.formtools.org/wordpress_plugin/?page=installation
-
-== Documentation ==
-
-For FAQ and user documentation, see the Form Tools website here:
-
-* Documentation: [http://docs.formtools.org/wordpress_plugin/?page=index](http://docs.formtools.org/wordpress_plugin/?page=index "http://docs.formtools.org/wordpress_plugin/?page=index")
-* Forums: [http://forums.formtools.org/forumdisplay.php?fid=19](http://forums.formtools.org/forumdisplay.php?fid=19 "http://forums.formtools.org/forumdisplay.php?fid=19")
 
 == Screenshots ==
 
